@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1532026082 source:c:\librarymanage\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<bits/stdc++.h>
+
+1529564457 source:c:\librarymanage\f.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
+1529564795 source:c:\librarymanage\f1.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
+1531515731 source:c:\librarymanage\str.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<bits/stdc++.h>
+
